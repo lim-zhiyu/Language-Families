@@ -1,2 +1,2 @@
 # About
-A simple Java project that models some language families.
+A Java application that models several language families.
